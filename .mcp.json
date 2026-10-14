@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "advenbook": {
+      "type": "http",
+      "url": "https://www.advenbook.com/api/mcp"
+    }
+  }
+}
