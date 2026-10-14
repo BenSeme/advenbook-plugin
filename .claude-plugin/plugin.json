@@ -3,9 +3,23 @@
   "displayName": "AdvenBook",
   "version": "1.1.0",
   "description": "Turn your hikes, treks, trail runs, races and bike trips into a printed photo book, with a map of each route, elevation profiles, stats, your photos and your stories. Works with Strava, GPX files or a simple list.",
-  "author": { "name": "AdvenBook", "email": "contact@advenbook.com", "url": "https://www.advenbook.com" },
+  "author": {
+    "name": "AdvenBook",
+    "email": "contact@advenbook.com",
+    "url": "https://www.advenbook.com"
+  },
   "homepage": "https://www.advenbook.com",
   "repository": "https://github.com/BenSeme/advenbook-plugin",
   "license": "MIT",
-  "keywords": ["photo book", "strava", "hiking", "trail running", "cycling", "gpx", "printed book", "gift"]
+  "privacyPolicyUrl": "https://www.advenbook.com/en/privacy-policy",
+  "keywords": [
+    "photo book",
+    "strava",
+    "hiking",
+    "trail running",
+    "cycling",
+    "gpx",
+    "printed book",
+    "gift"
+  ]
 }
