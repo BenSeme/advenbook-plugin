@@ -12,6 +12,9 @@
   "repository": "https://github.com/BenSeme/advenbook-plugin",
   "license": "MIT",
   "privacyPolicyUrl": "https://www.advenbook.com/en/privacy-policy",
+  "termsOfServiceUrl": "https://www.advenbook.com/en/terms-of-service",
+  "supportUrl": "https://www.advenbook.com/en/contact",
+  "documentationUrl": "https://github.com/BenSeme/advenbook-plugin#readme",
   "keywords": [
     "photo book",
     "strava",
